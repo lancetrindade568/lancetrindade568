@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @lancetrindade
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lancetrindade568/lancetrindade568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Run the App through index.html but not able to integrate firebase to github.
+Able to create react app and deploy but email and password authentication not working.
+Create form.html but not able to integrate to firebase database.
